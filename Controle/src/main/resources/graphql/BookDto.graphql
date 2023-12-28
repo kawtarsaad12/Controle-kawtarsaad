@@ -1,0 +1,6 @@
+type BookDTO{
+    id:Float
+    title:String
+    publisher:String
+    price:Float
+}

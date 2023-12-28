@@ -1,0 +1,5 @@
+
+type Mutation{
+    saveBook(book: UserRequest): BookDTO
+    deleteBook(id:ID):BookDTO
+}

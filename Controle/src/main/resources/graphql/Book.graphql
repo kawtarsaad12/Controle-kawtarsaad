@@ -1,0 +1,9 @@
+type Book{
+    id:Float
+    title: String
+    publisher:String
+    Price: Float
+}
+input UserRequest{
+    id:Float
+}
